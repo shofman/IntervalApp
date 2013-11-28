@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Timer</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="set_time">Set Time</string>
+    <string name="min">Minutes</string>
+    <string name="sec">Seconds</string>
+    <string name="hour">Hours</string>
+    <string name="title_activity_set_timer_dialog">SetTimerDialog</string>
+    <string name="alert_dialog_ok">OK</string>
+    <string name="alert_dialog_cancel">Cancel</string>
+    <string name="press_button">Press Here to Set Time</string>
+
+</resources>

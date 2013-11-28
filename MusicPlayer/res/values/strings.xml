@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MusicPlayer</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="rewind">R</string>
+    <string name="play_pause">P</string>
+    <string name="stop">S</string>
+    <string name="fast_forward">FF</string>
+    <string name="title_activity_music_service">MusicService</string>
+
+</resources>
